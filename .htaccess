@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# Force non-www
+RewriteCond %{HTTP_HOST} ^www\.alphabuildrealty\.com$ [NC]
+RewriteRule ^(.*)$ https://alphabuildrealty.com/$1 [R=301,L]
+
+# Redirect direct PHP page to homepage
+RewriteCond %{THE_REQUEST} \s/4-bhk-flats-in-dehradun\.php [NC]
+RewriteRule ^4-bhk-flats-in-dehradun\.php$ https://alphabuildrealty.com/ [R=301,L]
+
+# Show 3-bhk page content on homepage (internal rewrite)
+RewriteRule ^$ /4-bhk-flats-in-dehradun.php [L]
