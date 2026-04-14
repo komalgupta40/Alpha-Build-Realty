@@ -1,0 +1,1163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Alpha Build Realty">
+
+<meta name="theme-color" content="#C9A24D">
+
+<title>Luxury 4 BHK Flat in Dehradun | JJ Hamellia Tower Rajpur Road</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="description" content="Buy luxury 4 BHK flat in Dehradun at Rajpur Road. JJ Hamellia Tower offers premium apartments with modern amenities, RERA approved project.">
+
+<!-- Optional (Google ignores but no harm) -->
+<meta name="keywords" content=" 4 BHK flat in Dehradun, 4 BHK flats in Dehradun, Luxury 4 BHK flat in Dehradun, Luxury flats for sale in Dehradun, Flats for sale in Rajpur Road Dehradun, Premium apartments in Dehradun, Luxury apartments in Dehradun, RERA approved flats in Dehradun, Buy property in Dehradun, Luxury real estate in Dehradun">
+
+<meta name="robots" content="index, follow">
+
+<meta name="google-adsense-account" content="ca-pub-3410687912245553">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Luxury 4 BHK flat in Dehradun | Rajpur Road">
+<meta property="og:description" content="Explore luxury 4 BHK flat in Dehradun at Rajpur Road with premium amenities, elegant design, and excellent connectivity.">
+<meta property="og:image" content="https://alphabuildrealty.com/img/Hamellia-Tower/HamelliaTower.jpeg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://alphabuildrealty.com/">
+<meta property="og:site_name" content="JJ Hamellia Tower Dehradun">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Luxury 4 BHK flat in Dehradun">
+<meta name="twitter:description" content="Premium 4 BHK luxury flats for sale in Dehradun at Rajpur Road with world-class amenities.">
+<meta name="twitter:image" content="https://alphabuildrealty.com/img/Hamellia-Tower/HamelliaTower.jpeg">
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGJKYJYERM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DGJKYJYERM');
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ApartmentComplex",
+  "name": "JJ Hamellia Tower Dehradun",
+  "alternateName": "Hamellia Tower",
+  "description": "JJ Hamellia Tower is a luxury residential cum commercial project located at Rajpur Road, Dehradun. Developed by J.J. Town Star Realty LLP, the project offers premium 4 BHK apartments with servant rooms, smart home automation, world-class amenities, and panoramic Himalayan views.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rajpur Road",
+    "addressLocality": "Dehradun",
+    "addressRegion": "Uttarakhand",
+    "postalCode": "248001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.3398",
+    "longitude": "78.0465"
+  },
+  "numberOfBuildings": 2,
+  "numberOfFloors": 8,
+  "floorSize": {
+    "@type": "QuantitativeValue",
+    "value": 4800,
+    "unitCode": "FTK"
+  },
+  "amenityFeature": [
+    { "@type": "LocationFeatureSpecification", "name": "Club House", "value": true },
+    { "@type": "LocationFeatureSpecification", "name": "Swimming Pool", "value": true },
+    { "@type": "LocationFeatureSpecification", "name": "Smart Home Automation", "value": true },
+    { "@type": "LocationFeatureSpecification", "name": "CCTV Surveillance", "value": true },
+    { "@type": "LocationFeatureSpecification", "name": "Kids Play Area", "value": true },
+    { "@type": "LocationFeatureSpecification", "name": "Gymnasium", "value": true },
+    { "@type": "LocationFeatureSpecification", "name": "Dedicated Basement Parking", "value": true },
+    { "@type": "LocationFeatureSpecification", "name": "High Speed Lifts", "value": true }
+  ],
+  "containsPlace": {
+    "@type": "Apartment",
+    "name": "4 BHK + Servant Apartment",
+    "numberOfRooms": 4,
+    "floorSize": {
+      "@type": "QuantitativeValue",
+      "value": 4500,
+      "unitCode": "FTK"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": "70000000",
+    "priceValidUntil": "2026-12-31",
+    "availability": "https://schema.org/InStock",
+    "url": "https://alphabuildrealty.com/"
+  },
+  "isAccessibleForFree": false,
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "RERA ID",
+      "value": "UKREP05240000555"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Land Area",
+      "value": "4 Acres"
+    }
+  ],
+  "developer": {
+    "@type": "Organization",
+    "name": "J.J. Town Star Realty LLP",
+    "foundingDate": "2004",
+    "description": "A pioneer real estate group in Dehradun known for premium residential and commercial developments.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Dehradun",
+      "addressRegion": "Uttarakhand",
+      "addressCountry": "IN"
+    }
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9779043556",
+    "contactType": "sales",
+    "areaServed": "IN",
+    "availableLanguage": ["English", "Hindi"]
+  }
+}
+</script>
+
+
+
+    <?php  include 'Include/Header/header.php'; ?> 
+    <style>
+
+/* ===============================
+   WHY BUY SECTION
+================================ */
+.why-buy-section {
+  background: #f8f9fa;
+}
+
+.why-buy-title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #222;
+}
+
+.why-buy-subtitle {
+  max-width: 720px;
+  margin: 10px auto 0;
+  font-size: 16px;
+  color: #666;
+}
+
+.why-buy-card {
+  background: #fff;
+  padding: 30px;
+  border-radius: 14px;
+  height: 100%;
+  transition: all 0.35s ease;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.05);
+}
+
+.why-buy-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 45px rgba(0,0,0,0.12);
+}
+
+.why-buy-icon {
+  width: 60px;
+  height: 60px;
+  background: #C9A24D;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.why-buy-card h5 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #111;
+}
+
+.why-buy-card p {
+  font-size: 15px;
+  color: #555;
+  margin-bottom: 0;
+}
+
+/* ===============================
+   TYPOLOGY LIST
+================================ */
+.typology-ul {
+  list-style: none;
+  padding-left: 15px;
+  border-left: 5px solid #C9A24D;
+}
+
+.typology-ul li {
+  position: relative;
+  padding: 10px 0;
+}
+
+.typology-ul li::after {
+  content: "";
+  display: block;
+  min-width: 330px;
+  max-width: 100%;
+  border-bottom: 2px solid #cfcfcf;
+  margin-top: 6px;
+}
+
+/* ===============================
+   ABOUT IMAGE OVERLAY
+================================ */
+.about-img {
+  position: relative;
+}
+
+.img-title {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: linear-gradient(135deg, rgba(0,0,0,0.85), rgba(0,0,0,0.65));
+  backdrop-filter: blur(6px);
+  color: #fff;
+  padding: 12px 32px;
+  font-size: 22px;
+  font-weight: 700;
+  font-family: 'Playfair Display', serif;
+  border-radius: 6px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+  z-index: 10;
+  text-align: center;
+  white-space: nowrap;
+  max-width: 90%;
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  .img-title {
+    font-size: 17px;
+    padding: 10px 20px;
+    left: 53%;
+  }
+}
+
+/* ===============================
+   GENERAL UI HELPERS
+================================ */
+.padding-column {
+  padding: 20px;
+}
+
+.bg-grey {
+  background-color: #fbfbfb;
+}
+
+.onwards-text {
+  font-size: 13px;
+  margin-left: 6px;
+  opacity: 0.85;
+  text-transform: uppercase;
+}
+
+/* ===============================
+   CAROUSEL & LIGHTBOX
+================================ */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-size: 35px !important;
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.carousel-item {
+  padding: 25px 0;
+}
+
+#lightboxModal .modal-content {
+  background: transparent;
+  border: none;
+}
+
+#lightboxModal img {
+  max-height: 90vh;
+  margin: auto;
+  display: block;
+}
+
+/* ===============================
+   WHATSAPP FLOAT BUTTON
+================================ */
+.whatsapp-float-left {
+  position: fixed;
+  bottom: 15px;
+  left: 15px;
+  background-color: #25D366;
+  color: #fff;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 28px;
+  line-height: 52px;
+  z-index: 999;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+}
+
+.whatsapp-float-left:hover {
+  background-color: #1ebe5d;
+  transform: scale(1.1);
+}
+
+
+    </style> 
+      <!-- ===== JS ===== -->
+  </head>
+  <body>
+    <div class="container-fluid bg-white p-0">
+      <!-- Spinner Start -->
+      <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+          <span class="sr-only">Loading...</span>
+        </div>
+      </div>
+      <!-- Spinner End -->
+      
+      <!-- Navbar Start --> 
+      <?php  include 'Include/Nav/menu.php'; ?>
+      <!-- Navbar End -->
+      
+      <!-- Header Start -->
+      <div class="container-fluid header bg-white p-0">
+        <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
+          <div class="col-md-6 padding-column mt-lg-5">
+            <h1 class="display-5 animated fadeIn mb-1">Luxury 4 BHK <span class="text-primary">Flats in Dehradun</span></h1>
+            <p class="lead text-muted">
+  JJ Hamellia Tower is a premium residential project offering luxury 4 BHK flat in the prime Rajpur Road location of Dehradun.
+</p>
+
+            <ul class="typology-ul">
+              <li>
+                <i class="fa fa-building me-2"></i>Total Land Area: 4 Acres
+              </li>
+              <li>
+                <i class="fa fa-city me-2"></i>Retail Shop Stilt + 8 floors
+              </li>
+              <li>
+                <i class="fa fa-home me-2"></i>Massive central greens
+              </li>
+              <li>
+                <i class="fa fa-shield-alt me-2"></i>4 BHK + Servant Apartments (4500 sq ft).
+              </li>
+            </ul>
+            <button class="btn btn-primary py-2 px-3 animated fadeIn price-btn" aria-label="Call to inquire about luxury 4 BHK flat in Dehradun">
+              <i class="fa fa-phone-alt me-2"></i> Start At: 7 <span class="cr-wrap">Cr <sup>★</sup>
+              </span>
+              <small class="onwards-text">Onwards</small>
+            </button>
+          </div>
+          <div class="col-md-6 animated fadeIn">
+            <img class="img-fluid" src="img/Hamellia-Tower/Hamellia-Tower.jpg"  alt="Luxury 4 BHK flat in Dehradun at Rajpur Road residential project" width="800"height="600">
+                     <!-- <img class="img-fluid" src="img/Hamellia-Tower/Hamellia-Top-Slide-1.jpeg"  alt="Luxury 4 BHK flat in Dehradun at Rajpur Road residential project" width="800"height="600"> -->
+
+          </div>
+        </div>
+      </div>
+      <!-- Header End -->
+      
+      <!-- About Start -->
+      <div class="container-fluid bg-grey py-5" id="About">
+        <div class="container">
+          <div class="row g-8  wow fadeInUp">
+            <div class="col-md-8">
+              <div class="wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                <div class="text-left mx-auto mb-2 wow fadeInUp" data-wow-delay="0.1s">
+                  <h2 class="mb-3 wow fadeInUp text-left">About the Developer – J.J Town Star Realty LLP</h2>
+                </div>
+              
+<p style="text-align: justify;">
+  <strong>J.J. Town Star Realty LLP</strong>, a part of the reputed J.J. Group established in 2004, is a trusted real estate developer in Dehradun known for delivering premium residential and commercial projects.
+</p>
+
+<p style="text-align: justify;">
+  With a strong legacy of innovation, quality construction, and ethical business practices, the group has successfully developed over twelve lakh square feet of residential and commercial space across prime locations in Dehradun.
+</p>
+
+<p style="text-align: justify;">
+  The developer is recognized for creating luxury apartments with spacious layouts, large balconies, modern amenities, and well-planned living spaces. This commitment to excellence has earned J.J. Town Star Realty LLP a credible reputation among homebuyers looking to buy premium flats in Dehradun.
+</p>
+
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="wow fadeInUp bg-light text-center rounded p-3" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                <h4 class="mb-4">Enquire Now</h4>
+                <!-- <form action="Include/Form/send-mail.php" method="POST">
+                  <div class="row g-3">
+                    <div class="col-md-6">
+                      <div class="form-floating">
+                        <input type="text" class="form-control" name="name" placeholder="Your Name" required>
+                        <label>Your Name</label>
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="form-floating">
+                        <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+                        <label>Your Email</label>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="form-floating">
+                        <input type="text" class="form-control" name="subject" placeholder="Phone Numbe" required>
+                        <label>Phone Number</label>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <button class="btn btn-primary w-100 py-3" type="submit"> Send Message </button>
+                    </div>
+                  </div>
+                </form> -->
+              <form action="send-mail.php" method="POST">
+  <div class="row g-3">
+
+    <div class="col-md-6">
+      <div class="form-floating">
+        <input type="text" class="form-control" name="name" placeholder="Your Name" required>
+        <label>Your Name</label>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="form-floating">
+        <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+        <label>Your Email</label>
+      </div>
+    </div>
+
+    <div class="col-12">
+      <div class="form-floating">
+        <input type="text" class="form-control" name="phone" placeholder="Phone Number" required>
+        <label>Phone Number</label>
+      </div>
+    </div>
+
+    <div class="col-12">
+      <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+    </div>
+
+  </div>
+</form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- About End -->
+      
+      <!-- Amenities Start -->
+      <div class="container-fluid py-5" id="Amenities">
+        <div class="container">
+          <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 900px;">
+            <h2 class="mb-3">Luxury Amenities at Premium 4 BHK flat in Dehradun</h2>
+          </div>
+          <div class="row g-4">
+
+  <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="cat-item d-block bg-light text-center rounded p-3">
+      <div class="rounded p-4">
+        <div class="icon mb-3">
+          <img class="img-fluid" src="img/Amenities/image.webp" 
+               alt="Club house amenities in luxury flats in Dehradun">
+        </div>
+        <h3 class="h6">Club House</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
+    <div class="cat-item d-block bg-light text-center rounded p-3">
+      <div class="rounded p-4">
+        <div class="icon mb-3">
+          <img class="img-fluid" src="img/Amenities/icon-housing.webp" 
+               alt="Swimming pool in luxury apartments in Dehradun">
+        </div>
+        <h3 class="h6">Swimming Pool</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.5s">
+    <div class="cat-item d-block bg-light text-center rounded p-3">
+      <div class="rounded p-4">
+        <div class="icon mb-3">
+          <img class="img-fluid" src="img/Amenities/icon-house.webp" 
+               alt="24x7 security surveillance in premium flats in Dehradun">
+        </div>
+        <h3 class="h6">24x7 Security Surveillance</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.7s">
+    <div class="cat-item d-block bg-light text-center rounded p-3">
+      <div class="rounded p-4">
+        <div class="icon mb-3">
+          <img class="img-fluid" src="img/Amenities/icon-luxury.webp" 
+               alt="Modular kitchen in luxury 4 BHK flat in Dehradun">
+        </div>
+        <h3 class="h6">Modular Kitchen</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="cat-item d-block bg-light text-center rounded p-3">
+      <div class="rounded p-4">
+        <div class="icon mb-3">
+          <img class="img-fluid" src="img/Amenities/icon-building.webp" 
+               alt="Gated entry exit for luxury residential project in Dehradun">
+        </div>
+        <h3 class="h6">Gated Entry & Exit</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
+    <div class="cat-item d-block bg-light text-center rounded p-3">
+      <div class="rounded p-4">
+        <div class="icon mb-3">
+          <img class="img-fluid" src="img/Amenities/icon-neighborhood.webp" 
+               alt="Kids play area in luxury residential flats in Dehradun">
+        </div>
+        <h3 class="h6">Kids Play Area</h3>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+        </div>
+      </div>
+      <!-- Amenities End -->
+      
+      <!-- Redefining Luxury in Dehradun Start -->
+      <div class="container-fluid py-5 bg-grey">
+        <div class="container">
+          <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 900px;">
+            <h2 class="mb-3">Location Advantage – Luxury Living in Dehradun</h2>
+                  <p>
+  Located in the heart of the scenic Doon Valley, Dehradun offers an exceptional blend of natural beauty, modern infrastructure, and excellent connectivity, making it an ideal destination for luxury residential living.
+</p>
+
+
+          </div>
+          <div class="row g-5 align-items-center">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+              <div class="about-img position-relative overflow-hidden padding-column pe-0">
+                <!-- <img class="img-fluid rounded w-100" src="img/Hamellia-Tower/HamelliaTower.jpeg" alt="Luxury 3 BHK flat in Dehradun at Rajpur Road location"> -->
+                <!-- <h3 class="img-title">2 BHK Limited Apartment</h3> -->
+                <img class="iimg-fluid rounded w-100" src="img/Hamellia-Tower/Hamellia-Top-Slide-1.jpeg"  alt="Luxury 3 BHK flat in Dehradun at Rajpur Road location">
+
+              </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+              
+      
+<p>
+  Dehradun is known for its pleasant climate, lush green surroundings, and excellent connectivity, offering an ideal environment for families looking to buy premium flats in Dehradun while enjoying a peaceful lifestyle away from overcrowded metros.
+</p>
+
+
+<p>
+  Strategically located near popular destinations like <strong>Mussoorie</strong>, <strong>Haridwar</strong>, and <strong>Rishikesh</strong>, Dehradun provides easy access to hill stations, spiritual centers, and major transport routes, making it a perfect choice for both end-users and investors.
+</p>
+
+<p>
+  As the capital of Uttarakhand, Dehradun continues to grow as a major hub for education, healthcare, and modern infrastructure. Tree-lined avenues, scenic mountain views, and well-planned urban development make it an excellent location for luxury residential projects and high-value real estate investments.
+</p>
+
+<p>
+  With rising demand for luxury apartments and premium residential properties, Dehradun promises long-term appreciation and an unmatched quality of life for homebuyers seeking comfort, connectivity, and natural beauty.
+</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Redefining Luxury in Dehradun End -->
+    <section id="why-buy" class="why-buy-section py-5">
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="text-center mb-5">
+      <h2 class="why-buy-title">Why Buy Luxury Flats in Dehradun?</h2>
+      <p class="why-buy-subtitle">
+        Discover why JJ Hamellia Tower is a premium choice for luxury living and property investment in Dehradun.
+      </p>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- Card 1 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="why-buy-card">
+          <div class="why-buy-icon">
+            <i class="fa fa-map-marker-alt"></i>
+          </div>
+          <h5>Prime Rajpur Road Location</h5>
+          <p>
+            Located in one of Dehradun’s most prestigious areas, offering excellent connectivity, peaceful surroundings, and high property appreciation.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="why-buy-card">
+          <div class="why-buy-icon">
+            <i class="fa fa-home"></i>
+          </div>
+          <h5>Spacious 4 BHK Luxury Apartments</h5>
+          <p>
+            Thoughtfully designed 4 BHK flat with large balconies, premium fittings, and modern layouts for comfortable luxury living.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="why-buy-card">
+          <div class="why-buy-icon">
+            <i class="fa fa-shield-alt"></i>
+          </div>
+          <h5>RERA Approved & Trusted Developer</h5>
+          <p>
+            Developed by J.J. Town Star Realty LLP, a trusted name in Dehradun’s real estate market with a legacy of quality projects.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card 4 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="why-buy-card">
+          <div class="why-buy-icon">
+            <i class="fa fa-leaf"></i>
+          </div>
+          <h5>Luxury Lifestyle & Green Living</h5>
+          <p>
+            Enjoy a premium lifestyle with landscaped greens, modern amenities, and a serene environment away from city congestion.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card 5 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="why-buy-card">
+          <div class="why-buy-icon">
+            <i class="fa fa-chart-line"></i>
+          </div>
+          <h5>High Investment Potential</h5>
+          <p>
+            Rajpur Road is a fast-growing real estate hotspot, making this project ideal for long-term value appreciation.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card 6 -->
+      <div class="col-lg-4 col-md-6">
+        <div class="why-buy-card">
+          <div class="why-buy-icon">
+            <i class="fa fa-phone-volume"></i>
+          </div>
+          <h5>Ideal for End-Users & Investors</h5>
+          <p>
+            Perfect for families seeking premium flats in Dehradun and investors looking for secure, high-value real estate.
+          </p>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+      <!-- Project Highlights & Approvals Start -->
+<div class="container-fluid bg-dark text-white-50 footer pt-5 pb-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+  <div class="container py-2">
+    <div class="row">
+
+      <!-- Section Heading -->
+      <div class="col-lg-12">
+        <h2 class="text-center text-white mb-3">
+          Project Highlights – Luxury 4 BHK flat in Dehradun
+        </h2>
+
+        <p class="text-center text-white mb-2">
+          Prime location at <strong>Rajpur Road, Dehradun</strong> · MDDA Approved Project
+        </p>
+
+        <p class="text-center text-white mb-4">
+          RERA Approved Residential & Commercial Project (RERA ID: <strong>UKREP05240000555</strong>)
+        </p>
+      </div>
+
+      <!-- Table -->
+      <div class="col-lg-12">
+        <div class="table-responsive project-spec-table">
+          <table class="table table-bordered table-striped text-white align-middle">
+            <tbody>
+
+              <tr>
+                <td>Commercial cum Residential Project</td>
+                <td>Smart Home Automation</td>
+              </tr>
+
+              <tr>
+                <td>Two Residential Towers</td>
+                <td>VRV Air Conditioned Living Spaces</td>
+              </tr>
+
+              <tr>
+                <td>Two Basement Parking Levels</td>
+                <td>8 Feet High Designer Doors</td>
+              </tr>
+
+              <tr>
+                <td>4 BHK Apartments with Servant Room</td>
+                <td>Two High-Speed Lifts in Each Tower</td>
+              </tr>
+
+              <tr>
+                <td>Four 4 BHK Residences on Each Floor</td>
+                <td>Two Staircases in Each Tower</td>
+              </tr>
+
+              <tr>
+                <td>Super Area of Each Apartment – 4800 Sq. Ft.</td>
+                <td>CCTV Surveillance in Common Areas</td>
+              </tr>
+
+              <tr>
+                <td>Eight Floors (Expandable up to Nine Floors)</td>
+                <td>24x7 Power Backup</td>
+              </tr>
+
+              <tr>
+                <td>11.5 Ft Floor-to-Floor Height</td>
+                <td>Assured Water Supply through Tubewell</td>
+              </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- Project Highlights & Approvals End -->
+
+    <!-- Luxury 4 BHK Floor Plan Section Start -->
+<div class="container-fluid py-5" id="floor-plans">
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 820px;">
+      <h2 class="mb-3">
+        Luxury 4 BHK Floor Plans in Dehradun
+      </h2>
+      <p class="text-muted">
+        Explore the thoughtfully designed 4 BHK unit layout offering spacious living areas, servant room, and premium planning at JJ Hamellia Tower.
+      </p>
+    </div>
+
+    <!-- Floor Plan Image -->
+    <div class="row justify-content-center">
+      <div class="col-md-8 mb-4 text-center">
+        <img 
+          src="img/Floor-plans/Hamellia-Tower-Unit-Layout-Floor-Plans.jpg"
+          class="img-fluid rounded mx-auto d-block border"
+          alt="Luxury 4 BHK floor plan in Dehradun at Rajpur Road residential project"
+          loading="lazy"width="900"height="650">
+      </div>
+    </div>
+
+  </div>
+</div>
+<!-- Luxury 4 BHK Floor Plan Section End -->
+
+      
+      <!-- Luxury Lifestyle at JJ Hamellia Tower Start -->
+<div class="container-fluid py-5" id="lifestyle">
+  <div class="container">
+    <div class="bg-light rounded p-3">
+      <div class="bg-white rounded p-4" style="border: 1px dashed #C9A24D">
+        <div class="row g-5 align-items-center">
+
+          <!-- Image -->
+          <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+            <img 
+              class="img-fluid rounded w-100"
+              src="img/Hamellia-Tower/Life-Activated-HAMELlIA.png"
+              alt="Luxury lifestyle in premium 4 BHK flat in Dehradun at Rajpur Road"
+              loading="lazy">
+          </div>
+
+          <!-- Content -->
+          <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+            <div class="mb-4">
+              <h2 class="mb-3">
+                A Luxury Lifestyle in Dehradun
+              </h2>
+
+              <p>
+                At <strong>JJ Hamellia Tower</strong>, you don’t just buy a home—you step into a premium lifestyle designed for comfort, elegance, and modern living.
+                Surrounded by greenery and thoughtfully planned spaces, these luxury 4 BHK flat in Dehradun offer the perfect balance of peace, connectivity, and sophistication.
+              </p>
+
+              <p>
+                Experience a vibrant residential community at Rajpur Road that redefines urban living with smart features, world-class amenities, and spacious homes crafted for families who value quality and long-term investment.
+              </p>
+            </div>
+
+            <!-- CTA Buttons -->
+            <a href="tel:+919779043556" 
+               class="btn btn-primary py-3 px-4 me-2 mb-2"
+               aria-label="Call to enquire about luxury flats for sale in Dehradun">
+              <i class="fa fa-phone-alt me-2"></i>Call for Price & Details
+            </a>
+
+            <a href="#contact" 
+               class="btn btn-dark py-3 px-4 mb-2"
+               aria-label="Book site visit for luxury 4 BHK flat in Dehradun">
+              <i class="fa fa-calendar-alt me-2"></i>Book Site Visit
+            </a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Luxury Lifestyle at JJ Hamellia Tower End -->
+
+      
+      <!-- Project Specifications Start -->
+      <section class="project-specifications pt-3 pb-2" id="Specifications">
+        <div class="container">
+          <h2 class="text-center mb-3">
+  Luxury 4 BHK Flat Specifications in Dehradun
+</h2>
+
+<p class="text-center text-muted mb-4">
+  Explore the premium specifications, smart features, and high-end fittings that define luxury living at this RERA approved residential project in Dehradun.
+</p>
+          <div class="table-responsive">
+            <table class="table table-bordered align-middle">
+              <tbody>
+                <!-- Smart Home -->
+                <tr class="table-dark">
+                  <th colspan="2">Smart Home Automation</th>
+                </tr>
+                <tr>
+                  <td>Main Door Lock</td>
+                  <td>Smart Main Door Lock with 4-in-1 Unlocking Features</td>
+                </tr>
+                <tr>
+                  <td>Doorbell</td>
+                  <td>Smart Video Doorbell</td>
+                </tr>
+                <tr>
+                  <td>Smart Switches</td>
+                  <td>One 6-Module Smart Touch Switch in Each Bedroom, Drawing Room & Family Lounge</td>
+                </tr>
+                <tr>
+                  <td>Sensor Lights</td>
+                  <td>Smart Sensor Lights in Bathrooms</td>
+                </tr>
+                <!-- Living Area -->
+                <tr class="table-light">
+                  <th colspan="2">Living / Dining / Family Lounge</th>
+                </tr>
+                <tr>
+                  <td>Walls</td>
+                  <td>POP Punning with Plastic Emulsion Paint</td>
+                </tr>
+                <tr>
+                  <td>False Ceiling</td>
+                  <td>POP with Plastic Emulsion Paint</td>
+                </tr>
+                <tr>
+                  <td>Door Frames</td>
+                  <td>Solid Wood of Height 8 Feet</td>
+                </tr>
+                <tr>
+                  <td>Doors</td>
+                  <td>50 mm Thick, Both Sides Veneer with Melamine Polish</td>
+                </tr>
+                <tr>
+                  <td>Windows</td>
+                  <td>Three Track Aluminium Glazed Windows with 8 mm Toughened Glass</td>
+                </tr>
+                <!-- Servant Room & Parking -->
+                <tr class="table-light">
+                  <th colspan="2">Servant Room & Car Parking</th>
+                </tr>
+                <tr>
+                  <td>Flooring</td>
+                  <td>Vitrified Tiles</td>
+                </tr>
+                <tr>
+                  <td>Walls</td>
+                  <td>Plastic Emulsion Paint</td>
+                </tr>
+                <tr>
+                  <td>Doors</td>
+                  <td>Both Sides Laminated Flush Door</td>
+                </tr>
+                <tr>
+                  <td>Car Parking</td>
+                  <td>Dedicated Basement Car Parking</td>
+                </tr>
+                <!-- Fittings -->
+                <tr class="table-light">
+                  <th colspan="2">Fittings & Fixtures</th>
+                </tr>
+                <tr>
+                  <td>CP Fittings</td>
+                  <td>Kohler / Grohe / Roca</td>
+                </tr>
+                <tr>
+                  <td>Chinaware</td>
+                  <td>Kohler / Grohe / Roca</td>
+                </tr>
+                <tr>
+                  <td>Switches</td>
+                  <td>Le Grand / Siemens / Havells</td>
+                </tr>
+                <tr>
+                  <td>SS Hardware</td>
+                  <td>Hettich / Doreset / Indaux / Hafele</td>
+                </tr>
+                <tr>
+                  <td>Wiring</td>
+                  <td>Finolex / Havells / KEI</td>
+                </tr>
+                <!-- Lifts & AC -->
+                <tr class="table-light">
+                  <th colspan="2">Lifts & Air Conditioning</th>
+                </tr>
+                <tr>
+                  <td>Lifts</td>
+                  <td>High Speed Guest Lifts – Schindler / Johnson</td>
+                </tr>
+                <tr>
+                  <td>Air Conditioning</td>
+                  <td>Split Air Conditioners in All Bedrooms, Living, Dining & Drawing Rooms</td>
+                </tr>
+                <!-- Electrical -->
+                <tr class="table-light">
+                  <th colspan="2">Electrical Appliances & Fittings</th>
+                </tr>
+                <tr>
+                  <td>Lighting</td>
+                  <td>Fans & Lights in All Bedrooms, Living, Drawing & Family Lounge</td>
+                </tr>
+                <tr>
+                  <td>Bathrooms</td>
+                  <td>Exhaust Fan & Geyser in All Bathrooms</td>
+                </tr>
+                <!-- Power & Water -->
+                <tr class="table-light">
+                  <th colspan="2">Power Supply & Water</th>
+                </tr>
+                <tr>
+                  <td>Power Backup</td>
+                  <td>24 Hours Power Backup – Maximum 7 KVA per Residence</td>
+                </tr>
+                <tr>
+                  <td>Electricity</td>
+                  <td>Individual Connection / Bulk Supply by UPCL (Maximum 12 KVA Load)</td>
+                </tr>
+                <tr>
+                  <td>Water Supply</td>
+                  <td>Tubewell Water / Government Water Supply</td>
+                </tr>
+                <!-- Amenities -->
+                <tr class="table-light">
+                  <th colspan="2">Club House & Other Facilities</th>
+                </tr>
+                <tr>
+                  <td>Club House</td>
+                  <td>Meeting Room, Indoor Games, Reception, Dining & Kitchen (Membership Based)</td>
+                </tr>
+                <tr>
+                  <td>Gym</td>
+                  <td>Gym Facility</td>
+                </tr>
+                <tr>
+                  <td>Security</td>
+                  <td>CCTV in Common Areas & Fire Safety Equipment as per Norms</td>
+                </tr>
+                <!-- Bedrooms -->
+                <tr class="table-light">
+                  <th colspan="2">All Bedrooms</th>
+                </tr>
+                <tr>
+                  <td>Flooring</td>
+                  <td>Laminated Wood in One Bedroom / Italian Marble in Other Bedrooms</td>
+                </tr>
+                <tr>
+                  <td>False Ceiling</td>
+                  <td>POP with Plastic Emulsion Paint</td>
+                </tr>
+                <tr>
+                  <td>Wardrobes</td>
+                  <td>Modular Wardrobe in Dresser or Bedrooms</td>
+                </tr>
+                <tr>
+                  <td>Main Door</td>
+                  <td>Main Door with Electronic Lock</td>
+                </tr>
+                <!-- Kitchen -->
+                <tr class="table-light">
+                  <th colspan="2">Kitchen</th>
+                </tr>
+                <tr>
+                  <td>Kitchen Type</td>
+                  <td>Modular Kitchen with Chimney, Hob, Microwave, Dishwasher, RO & Geyser</td>
+                </tr>
+                <tr>
+                  <td>Flooring</td>
+                  <td>Italian Marble / Vitrified Tiles (Utility Area)</td>
+                </tr>
+                <tr>
+                  <td>Sink</td>
+                  <td>Handmade Double / Single Bowl</td>
+                </tr>
+                <!-- Toilets -->
+                <tr class="table-light">
+                  <th colspan="2">Toilets</th>
+                </tr>
+                <tr>
+                  <td>Flooring</td>
+                  <td>Granite / Vitrified Tiles</td>
+                </tr>
+                <tr>
+                  <td>Fittings</td>
+                  <td>Jacuzzi & Shower Cubicle in Master Bathroom, Shower Cubicle in Other Bathrooms</td>
+                </tr>
+                <tr>
+                  <td>Sanitaryware</td>
+                  <td>Wall Hung WC, Mirror & 3 Piece Bath Accessories</td>
+                </tr>
+              </tbody>
+            </table>
+            <a href="#contact" class="text-primary fw-bold">
+Book a Site Visit for Luxury 4 BHK flat in Dehradun
+</a>
+          </div>
+        </div>
+      </section>
+      <!-- Project Specifications End -->
+      
+      <!-- Footer Start -->
+<div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+  <div class="container">
+
+    <!-- Disclaimer -->
+    <div class="row">
+      <div class="col-lg-12">
+        <h5 class="text-center text-white mb-3">Disclaimer</h5>
+        <p class="text-center">
+          All information, images, visuals, drawings, specifications, plans, or sketches shown in this brochure are artistic impressions and for illustrative purposes only. 
+          Nothing contained herein shall be construed as a legal offer or commitment. The developer reserves the right to modify specifications, designs, brands, or dimensions without prior notice.
+        </p>
+      </div>
+    </div>
+
+    <hr class="border-secondary my-4">
+
+    <!-- Copyright & Contact -->
+    <div class="row align-items-center">
+      <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+        &copy; <strong>Alpha Build Realty</strong> 2026. All Rights Reserved.
+      </div>
+
+      <div class="col-md-6 text-center text-md-end">
+        <p class="mb-0 text-white">
+          <a class="text-white me-3" href="tel:+919779043556" aria-label="Call Alpha Build Realty Dehradun">
+            <i class="fa fa-phone-alt me-1"></i> +91 97790 43556
+          </a>
+          |
+          <span class="ms-3">
+            <i class="fa fa-map-marker-alt me-1"></i>
+            84 (New 263/610), Rajpur Road, Dehradun, Uttarakhand
+          </span>
+        </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+<!-- Footer End -->
+
+    
+      
+      <!-- Back to Top -->
+      <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top">
+        <i class="bi bi-arrow-up"></i>
+      </a>
+    </div>
+    
+    <!-- Gallery Start -->
+    <script>
+        const galleryImages = document.querySelectorAll('.gallery img');
+        const carouselEl = document.getElementById('lightboxCarousel');
+        let carousel;
+        galleryImages.forEach((img, index) => {
+          img.addEventListener('click', () => {
+            if (!carousel) {
+              carousel = new bootstrap.Carousel(carouselEl, {
+                interval: false,
+                ride: false,
+                wrap: true
+              });
+            }
+            carousel.to(index);
+          });
+        });
+      </script>   
+    <!-- Gallery Start --> 
+      
+    <?php include 'Include/Footer/footer.php'; ?> 
+    
+    <!-- whatsapp Start -->
+    <a href="https://wa.me/919779043556?text=Hello%20Alpha%20Build%20Realty%2C%20I%20am%20interested%20in%20the%20Ultra%20Premium%203%20%26%204%20BHK" class="whatsapp-float-left" target="_blank" aria-label="Hamellia Towers Enquiry">
+      <i class="fab fa-whatsapp"></i>
+    </a>
+    <!-- whatsapp Start -->
+    
+  </body>
+</html>
